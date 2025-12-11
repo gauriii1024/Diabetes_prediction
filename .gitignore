@@ -1,0 +1,16 @@
+# Ignore kaggle credentials
+.kaggle/
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
